@@ -48,7 +48,7 @@ This project develops an open-source Python program to automate a Keithley 2400 
 - NI-VISA Resources
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source.
 
 ## Author
 Swaraj V, Department of Physics, Cochin University of Science and Technology, July 2022
